@@ -1,0 +1,10 @@
+C:\ETS\ETS_BB\bin\Debug\ETS_BB.exe.config
+C:\ETS\ETS_BB\bin\Debug\ETS_BB.exe
+C:\ETS\ETS_BB\bin\Debug\ETS_BB.pdb
+C:\ETS\ETS_BB\bin\Debug\ScriptSolution.dll
+C:\ETS\ETS_BB\bin\Debug\SourceEts.dll
+C:\ETS\ETS_BB\obj\Debug\ETS_BB.csprojAssemblyReference.cache
+C:\ETS\ETS_BB\obj\Debug\ETS_BB.csproj.CoreCompileInputs.cache
+C:\ETS\ETS_BB\obj\Debug\ETS_BB.csproj.CopyComplete
+C:\ETS\ETS_BB\obj\Debug\ETS_BB.exe
+C:\ETS\ETS_BB\obj\Debug\ETS_BB.pdb
